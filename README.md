@@ -7,6 +7,14 @@
   - [2.5 vue-cli](https://mp.csdn.net/mdeditor/90407643#25_vuecli_76)
   - [2.4 Vuetify](https://mp.csdn.net/mdeditor/90407643#24_Vuetify_89)
 
+## 项目启动：npm run dev
+
+界面：
+
+![img](https://img-blog.csdnimg.cn/20190520152715308.png?) 
+
+
+
 # 1. 架构概述
 
 前端有一套完整的技术栈，将来会去做独立的部署。
